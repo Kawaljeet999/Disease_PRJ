@@ -1,0 +1,13 @@
+Output from models
+
+Linear regression
+Mean:  135979293335.12846
+Standard deviation:  407937879996.7941
+
+Decision Tree (No variability)(Worst)
+Mean:  0.0
+Standard deviation:  0.0
+
+Random forest (Best)
+Mean:  0.3493936320165303
+Standard deviation:  0.18980366949234037
